@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://SeyedAbbasMousavi.github.io/ Abbas/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://SeyedAbbasMousavi.github.io/ Abbas/</loc>
+</url>
+<url>
+<loc>https://SeyedAbbasMousavi.github.io/ Abbas/about-me.html</loc>
+<lastmod>2019-11-14T17:46:55+01:00</lastmod>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\3/for-site.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\3/for-site-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://SeyedAbbasMousavi.github.io/ Abbas/elevator-talk.html</loc>
+<lastmod>2019-11-14T19:08:15+01:00</lastmod>
+<image:image>
+<image:loc>undefined</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://SeyedAbbasMousavi.github.io/ Abbas/hi-there.html</loc>
+<lastmod>2019-11-14T17:18:28+01:00</lastmod>
+<image:image>
+<image:loc>undefined</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\1/2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://SeyedAbbasMousavi.github.io/ Abbas/popular-summary.html</loc>
+<lastmod>2019-11-14T17:33:17+01:00</lastmod>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\2/car-drag.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\2/large.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\2/heat-sink-OP.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\2/2.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\2/1.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://SeyedAbbasMousavi.github.io/ Abbas/media\posts\2/3.jfif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

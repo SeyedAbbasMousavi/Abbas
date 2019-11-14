@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>AbbasMousavi</title>
+    <link href="https://SeyedAbbasMousavi.github.io/ Abbas/feed.xml" rel="self" />
+    <link href="https://SeyedAbbasMousavi.github.io/ Abbas" />
+    <updated>2019-11-14T19:09:00+01:00</updated>
+    <author>
+        <name>Seyed Abbas Mousavi</name>
+    </author>
+    <id>https://SeyedAbbasMousavi.github.io/ Abbas</id>
+
+    <entry>
+        <title>Elevator Talk</title>
+        <author>
+            <name>Seyed Abbas Mousavi</name>
+        </author>
+        <link href="https://SeyedAbbasMousavi.github.io/ Abbas/elevator-talk.html"/>
+        <id>https://SeyedAbbasMousavi.github.io/ Abbas/elevator-talk.html</id>
+
+        <updated>2019-11-14T19:08:15+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img src="undefined" alt=""></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Seyed Abbas Mousavi</name>
+        </author>
+        <link href="https://SeyedAbbasMousavi.github.io/ Abbas/about-me.html"/>
+        <id>https://SeyedAbbasMousavi.github.io/ Abbas/about-me.html</id>
+
+        <updated>2019-11-14T17:46:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I am a Phd Student in computational science and engineering in Umea University. here is a short summery of my academic background and work experience: 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am a Phd Student in computational science and engineering in Umea University.</p>
+<p>here is a short summery of my academic background and work experience:</p>
+<p> </p>
+<p><img class="post__image" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/3/for-site.jpg" alt="" width="3064" height="1710"></p>
+<p> </p>
+<p> </p>
+<p><img class="post__image" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/3/for-site-2.jpg" alt="" width="3048" height="1755"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Popular Summary</title>
+        <author>
+            <name>Seyed Abbas Mousavi</name>
+        </author>
+        <link href="https://SeyedAbbasMousavi.github.io/ Abbas/popular-summary.html"/>
+        <id>https://SeyedAbbasMousavi.github.io/ Abbas/popular-summary.html</id>
+
+        <updated>2019-11-14T17:33:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                    There are many cases in industry that the shape or topology (layout of material) of a product has direct effect on the performance of it. So how to improve the performance of a product by changing the shape or topology of it. How to design&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>There are many cases in industry that the shape or topology (layout of material) of a product has direct effect on the performance of it. So how to improve the performance of a product by changing the shape or topology of it. How to design a car to be faster or a CPU-cooler to be more effective.</p>
+<p><img class="post__image--center" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/car-drag.jfif" alt="" width="262" height="193"></p>
+<p>Topology optimization is about finding best layout (distribution) of material for a product in order to maximize its performance. So what we do is that we specify the limitations and constraints for a problem; then we specify what we want to optimize (Objective function), do we want to maximize the performance or minimize the cost or the weight or etc. then we use computational simulation to find the optimized design which maximizes (or minimizes) objective function while satisfying constraints.</p>
+<p> </p>
+<p><img class="post__image--left" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/large.jfif" width="300" height="199"><img class="post__image" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/heat-sink-OP.jpg" width="300" height="736"></p>
+<p> </p>
+<p>We start with dividing the available domain (available physical space) in to N elements. The design optimization problem is about finding whether each of these elements shall contains material or void in order to optimize the objective function.</p>
+<p><img class="post__image" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/2.jfif" alt="" width="200" height="340">     <img class="post__image" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/1.jfif" width="200" height="340">     <img class="post__image" src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/3.jfif" width="200" height="309"></p>
+<p>This process has done by solving the physical equation for the problem (Governing equation) on available design space and use optimization algorithms to find best layout of material.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Graphical Abstract</title>
+        <author>
+            <name>Seyed Abbas Mousavi</name>
+        </author>
+        <link href="https://SeyedAbbasMousavi.github.io/ Abbas/hi-there.html"/>
+        <id>https://SeyedAbbasMousavi.github.io/ Abbas/hi-there.html</id>
+
+        <updated>2019-11-14T17:18:28+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img src="undefined" alt="">
+<figure class="post__image">
+<figure class="post__image"><img src="https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/1/2.jpg" alt="" width="2993" height="1706"></figure>
+</figure>
+</figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

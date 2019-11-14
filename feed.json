@@ -1,0 +1,67 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AbbasMousavi",
+    "description": "",
+    "home_page_url": "https://SeyedAbbasMousavi.github.io/ Abbas",
+    "feed_url": "https://SeyedAbbasMousavi.github.io/ Abbas/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Seyed Abbas Mousavi"
+    },
+    "items": [
+        {
+            "id": "https://SeyedAbbasMousavi.github.io/ Abbas/elevator-talk.html",
+            "url": "https://SeyedAbbasMousavi.github.io/ Abbas/elevator-talk.html",
+            "title": "Elevator Talk",
+            "content_html": "<figure class=\"post__image\"><img src=\"undefined\" alt=\"\"></figure>",
+            "author": {
+                "name": "Seyed Abbas Mousavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-14T19:08:15+01:00",
+            "date_modified": "2019-11-14T19:08:15+01:00"
+        },
+        {
+            "id": "https://SeyedAbbasMousavi.github.io/ Abbas/about-me.html",
+            "url": "https://SeyedAbbasMousavi.github.io/ Abbas/about-me.html",
+            "title": "About Me",
+            "summary": "I am a Phd Student in computational science and engineering in Umea University. here is a short summery of my academic background and work experience: ",
+            "content_html": "<p>I am a Phd Student in computational science and engineering in Umea University.</p>\n<p>here is a short summery of my academic background and work experience:</p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/3/for-site.jpg\" alt=\"\" width=\"3064\" height=\"1710\"></p>\n<p> </p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/3/for-site-2.jpg\" alt=\"\" width=\"3048\" height=\"1755\"></p>",
+            "author": {
+                "name": "Seyed Abbas Mousavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-14T17:46:55+01:00",
+            "date_modified": "2019-11-14T17:46:55+01:00"
+        },
+        {
+            "id": "https://SeyedAbbasMousavi.github.io/ Abbas/popular-summary.html",
+            "url": "https://SeyedAbbasMousavi.github.io/ Abbas/popular-summary.html",
+            "title": "Popular Summary",
+            "summary": "There are many cases in industry that the shape or topology (layout of material) of a product has direct effect on the performance of it. So how to improve the performance of a product by changing the shape or topology of it. How to design&hellip;",
+            "content_html": "<p>There are many cases in industry that the shape or topology (layout of material) of a product has direct effect on the performance of it. So how to improve the performance of a product by changing the shape or topology of it. How to design a car to be faster or a CPU-cooler to be more effective.</p>\n<p><img class=\"post__image--center\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/car-drag.jfif\" alt=\"\" width=\"262\" height=\"193\"></p>\n<p>Topology optimization is about finding best layout (distribution) of material for a product in order to maximize its performance. So what we do is that we specify the limitations and constraints for a problem; then we specify what we want to optimize (Objective function), do we want to maximize the performance or minimize the cost or the weight or etc. then we use computational simulation to find the optimized design which maximizes (or minimizes) objective function while satisfying constraints.</p>\n<p> </p>\n<p><img class=\"post__image--left\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/large.jfif\" width=\"300\" height=\"199\"><img class=\"post__image\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/heat-sink-OP.jpg\" width=\"300\" height=\"736\"></p>\n<p> </p>\n<p>We start with dividing the available domain (available physical space) in to N elements. The design optimization problem is about finding whether each of these elements shall contains material or void in order to optimize the objective function.</p>\n<p><img class=\"post__image\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/2.jfif\" alt=\"\" width=\"200\" height=\"340\">     <img class=\"post__image\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/1.jfif\" width=\"200\" height=\"340\">     <img class=\"post__image\" src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/2/3.jfif\" width=\"200\" height=\"309\"></p>\n<p>This process has done by solving the physical equation for the problem (Governing equation) on available design space and use optimization algorithms to find best layout of material.</p>",
+            "author": {
+                "name": "Seyed Abbas Mousavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-14T17:33:17+01:00",
+            "date_modified": "2019-11-14T17:33:17+01:00"
+        },
+        {
+            "id": "https://SeyedAbbasMousavi.github.io/ Abbas/hi-there.html",
+            "url": "https://SeyedAbbasMousavi.github.io/ Abbas/hi-there.html",
+            "title": "Graphical Abstract",
+            "content_html": "<figure class=\"post__image\"><img src=\"undefined\" alt=\"\">\n<figure class=\"post__image\">\n<figure class=\"post__image\"><img src=\"https://SeyedAbbasMousavi.github.io/ Abbas/media/posts/1/2.jpg\" alt=\"\" width=\"2993\" height=\"1706\"></figure>\n</figure>\n</figure>",
+            "author": {
+                "name": "Seyed Abbas Mousavi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-13T15:27:30+01:00",
+            "date_modified": "2019-11-14T17:18:28+01:00"
+        }
+    ]
+}
